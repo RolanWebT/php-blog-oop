@@ -32,3 +32,5 @@ Optional kann der Redakteur zu einem Blogbeitrag ein Bild hochladen und auswähl
 dieses später links oder rechts vom Inhaltstext angezeigt wird.
 Im Kopf der dashboard.php soll der Redakteur zwei Links vorfinden: Einen Links zur Seite
 index.php und einen Logout-Link.
+
+New Text
